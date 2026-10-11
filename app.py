@@ -10,3 +10,6 @@ def home():
     <p>Your site: cash-net-ai.onrender.com</p>
     <p style='color:green'><b>✅ Deployment SUCCESS!</b></p>
     """
+
+if __name__ == '__main__':
+    app.run()
